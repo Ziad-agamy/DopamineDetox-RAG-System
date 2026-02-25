@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-groq
+langchain-experimental
+langchain-classic
+faiss-cpu
+pypdf
+gradio
+python-dotenv

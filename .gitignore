@@ -1,0 +1,6 @@
+.env
+rag_env/
+config.py
+__pycache__/
+faiss_index/
+*.pdf
